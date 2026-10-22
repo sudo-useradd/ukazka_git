@@ -1,3 +1,4 @@
-seznam věcí, které umím:git
+seznam věcí, které umím:
 HTML
 CSS
+Java script
